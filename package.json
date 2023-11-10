@@ -1,0 +1,16 @@
+{
+  "name": "backend-aula01",
+  "version": "1.0.0",
+  "description": "Projeto de aula Backend ",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "Javascript",
+    "TDS01"
+  ],
+  "author": "Stefanny Rodrigues",
+  "license": "ISC"
+}
